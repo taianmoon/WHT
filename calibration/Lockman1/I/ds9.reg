@@ -1,0 +1,19 @@
+# Region file format: DS9 version 4.1
+# Filename: gama12_i_band_ACAM_53min_20160226_astro_0p241rms.fits
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+
+
+
+circle(158.26654844,	59.1436154,12.590496")
+circle(158.17064211,	59.15483296,12.590496")
+circle(158.18002151,	59.17555359,12.590496")
+circle(158.19151018,	59.16807844,12.590496")
+circle(158.17760035,	59.16644777,12.590496")
+circle(158.33804498,	59.12813417,12.590496")
+circle(158.14571693,	59.14571651,12.590496")
+circle(158.14717259,	59.14239523,12.590496")
+circle(158.31797705,	59.09238701,12.590496")
+circle(158.35002932,	59.1984454,12.590496")
+circle(158.30198341,	59.21283226,12.590496")
+

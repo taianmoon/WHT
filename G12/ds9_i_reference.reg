@@ -1,0 +1,25 @@
+# Region file format: DS9 version 4.1
+# Filename: /home/tc1815/sextractor_test/Detect_extraction/G12/try_offset/geotran_try/shift_i_gama12_i_band_ACAM_53min_20160226_astro_0p241rms.fits
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+fk5
+circle(11:46:42.205,-0:11:20.17,2.91742") # color=red
+circle(11:46:37.320,-0:12:33.18,3.50091") # color=red
+circle(11:46:32.339,-0:11:08.00,3.50091") # color=red
+circle(11:46:37.679,-0:09:58.34,4.21653")
+circle(11:46:39.766,-0:10:34.51,2.44012")
+circle(11:46:40.928,-0:12:12.12,7.28616")
+circle(11:46:41.505,-0:12:37.31,4.21653")
+circle(11:46:44.547,-0:10:44.68,7.28616")
+circle(11:46:34.662,-0:13:34.45,7.28616")
+circle(11:46:32.306,-0:13:10.77,7.28616")
+circle(11:46:38.138,-0:13:22.06,7.28616")
+circle(11:46:46.833,-0:13:00.57,7.28616")
+circle(11:46:30.463,-0:11:46.61,7.28616")
+circle(11:46:36.047,-0:11:30.92,2.90674")
+circle(11:46:35.871,-0:10:58.99,3.48809")
+circle(11:46:37.524,-0:11:37.91,2.01857")
+circle(11:46:31.782,-0:12:10.92,0")
+circle(11:46:31.783,-0:12:10.87,2.01857")
+circle(11:46:32.657,-0:09:59.42,3.48809")
+circle(11:46:44.204,-0:10:14.60,3.48809")
+circle(11:46:40.198,-0:13:19.79,3.48809")
